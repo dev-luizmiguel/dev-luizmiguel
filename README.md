@@ -1,4 +1,4 @@
-### Olá eu sou Luiz Miguel e trabalgo com Desenvilvimento Web 
+### Olá eu sou Luiz Miguel e trabalho com Desenvilvimento Web 
 
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mluiz8650@gmail.com)
 [![Redes Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/l_miguel10)
